@@ -1,0 +1,12 @@
+{
+  "name": "comicstore",
+  "displayName": "comicstore",
+  "expo": {
+    "name": "comicstore",
+    "slug": "comicstore",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
