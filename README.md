@@ -4,7 +4,7 @@
 
 ### Step-by-step
 ```sh
-$ git clone 
+$ git clone https://github.com/arturhvcpn/comicStore.git
 ```
 
 ###  step
